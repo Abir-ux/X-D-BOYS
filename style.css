@@ -1,0 +1,358 @@
+/* .container{
+    text-align: center;
+}
+.buttons{
+    border: none;
+    padding: 15px 30px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.541);
+    border-radius: 8px;
+    background-color: rgba(245, 222, 179, 0.856);
+    color: rgb(0, 0, 0);
+    margin: 3px;
+} */
+body{
+    font-family: sans-serif;
+    background-color: rgba(0, 255, 255, 0.281);
+}
+
+
+
+.milestoneLogo{
+    text-align: center;
+}
+
+
+
+
+a{
+    text-decoration: none;
+}
+
+.january{
+
+    text-align: center;
+    
+
+
+
+
+}
+
+
+
+
+
+.saifur{
+    width: 200px;
+    border-radius: 50%;
+
+}
+
+
+/* .video{
+    text-align: center;
+}
+.videoYT{
+    width: 560px;
+    height: 315px;
+} */
+
+
+
+
+
+
+
+
+
+/* #milestoneLogoAnimation{
+    animation-name: collageLogo;
+    animation-duration: 3s;
+}
+@keyframes collageLogo{
+ 
+    0% {
+        opacity: 0;
+        transform: translateY(1000px);
+    }
+    80% {
+        transform: translateY(-20px);
+    }
+    100% {
+        opacity: 1;
+        transform: translate(0);
+    }
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* #collageName{
+    
+    animation-name: collageName;
+    animation-duration: 4s;
+}
+@keyframes collageName{
+ 
+    0% {
+        opacity: 0;
+        transform: translateY(1000px);
+    }
+    80% {
+        transform: translateY(-20px);
+    }
+    100% {
+        opacity: 1;
+        transform: translate(0);
+    }
+} */
+
+
+
+
+
+
+/* #className{
+    
+    animation-name: className;
+    animation-duration: 5s;
+}
+@keyframes className{
+ 
+    0% {
+        opacity: 0;
+        transform: translateY(1000px);
+    }
+    80% {
+        transform: translateY(-20px);
+    }
+    100% {
+        opacity: 1;
+        transform: translate(0);
+    }
+}
+ */
+
+
+
+
+
+
+
+
+
+#sir-section{
+    text-align: center;
+}
+
+
+
+
+#SaifurSir{
+    
+    animation-name: SaifurSir;
+    animation-duration: 5s;
+}
+
+
+
+
+
+@keyframes SaifurSir{
+ 
+
+    0% {
+        opacity: 0;
+        transform: translateY(1000px);
+    }
+
+    80% {
+        transform: translateY(-20px);
+    }
+
+
+    100% {
+        opacity: 1;
+        transform: translate(0);
+    }
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+#SirName{
+    
+    animation-name: sirName;
+    animation-duration: 5s;
+}
+
+
+
+
+
+@keyframes sirName{
+ 
+
+    0% {
+        opacity: 0;
+        transform: translateY(1000px);
+    }
+
+    80% {
+        transform: translateY(-20px);
+    }
+
+
+    100% {
+        opacity: 1;
+        transform: translate(0);
+    }
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#captains-section{
+    text-align: center;
+    animation-name: captains;
+    animation-duration: 5s;
+}
+
+
+
+
+@keyframes captains{
+ 
+
+    0% {
+        opacity: 0;
+        transform: translateY(1000px);
+    }
+
+    80% {
+        transform: translateY(-20px);
+    }
+
+
+    100% {
+        opacity: 1;
+        transform: translate(0);
+    }
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.line-1{
+    text-align: center;
+    animation-name: line-1;
+    animation-duration: 5s;
+}
+
+
+
+
+@keyframes line-1{
+ 
+
+    0% {
+        opacity: 0;
+        transform: translateX(1000px);
+    }
+
+    80% {
+        transform: translateX(-20px);
+    }
+
+
+    100% {
+        opacity: 1;
+        transform: translate(0);
+    }
+
+
+}
+
+
+
+.line-2{
+    text-align: center;
+    animation-name: line-2;
+    animation-duration: 5s;
+}
+
+
+
+
+@keyframes line-2{
+ 
+
+    0% {
+        opacity: 0;
+        transform: translateX(-1000px);
+    }
+
+    80% {
+        transform: translateX(20px);
+    }
+
+
+    100% {
+        opacity: 1;
+        transform: translate(0);
+    }
+
+
+}
